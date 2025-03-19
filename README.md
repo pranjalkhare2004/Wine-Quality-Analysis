@@ -29,9 +29,7 @@ This project focuses on analyzing the red wine quality dataset and building pred
 
 ## 📂 Files Included
 - `Wine_Quality_Analysis.ipynb` – Main analysis notebook
-- `Wine_Quality_Analysis_Short_PPT.pptx` – Summary presentation
-- `Wine_Quality_Analysis_Short_PPT_with_Visuals.pptx` – With suggested visuals
-
+- `Wine_Quality` - Dataset
 ## 📸 Visualizations
 - Heatmap of correlations
 - Boxplots & Scatterplots
@@ -43,8 +41,6 @@ You can run the notebook on [Google Colab](https://colab.research.google.com/) d
 - Upload the dataset in the same path or adjust the code accordingly
 - Install required libraries using `!pip install` if needed
 
-## 📎 License
-This project is open-source under the [MIT License](LICENSE).
 
 ---
 
